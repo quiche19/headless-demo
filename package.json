@@ -9,6 +9,9 @@
     "wpe-build": "next build",
     "start": "next start -p 8080"
   },
+  "engines": {
+    "node": "13.8.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
