@@ -10,7 +10,7 @@
     "start": "next start -p 8080"
   },
   "engines": {
-    "node": "14.8.x"
+    "node": "10.x"
   },
   "keywords": [],
   "author": "",
