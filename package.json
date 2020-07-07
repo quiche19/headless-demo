@@ -8,6 +8,10 @@
     "gcp-build": "next build",
     "wpe-build": "next build",
     "start": "next start -p 8080"
+  }, 
+  "engines": {
+    "node": "10.x.12"
+    "node": ""
   },
   "keywords": [],
   "author": "",
