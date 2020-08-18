@@ -1,0 +1,16 @@
+{
+  "repo": "quiche19/my-headless-app",
+  "environments": [
+    {
+      "name": "Development",
+      "branch": "master",
+      "wp_install_name": "ashikastaging",
+      "secrets": [
+        {
+          "key": "YOUR_ENV_VAR",
+          "value": "123"
+        }
+      ]
+    }
+  ]
+}
