@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
-    "gcp-build": "next build",
-    "wpe-build": "next build",
-    "start": "next start -p 8080"
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start -p 8080",
+    "wpe-build": "next build"
   },
   "keywords": [],
   "author": "",
